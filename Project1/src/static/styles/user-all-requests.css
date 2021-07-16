@@ -1,0 +1,65 @@
+body{
+    background-color:turquoise;
+    text-align: center;
+
+    column-gap: 100px;
+}
+
+#header-for-all{
+    text-align: center;
+}
+
+footer {
+    float: left;
+    height: 35px;
+    margin: 0px 50px 0px 0px;
+    color: #000;
+    padding: 10px 30px;
+    width: 180px;
+}
+
+.ordered-list{
+    border: 1px solid black;
+    font-size: 14;
+    padding: 15em;
+    color:green;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#dynamic-list{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#reimbursementTable{
+    font-size: 16;
+    color: blue;
+    column-gap: 3000000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#td{
+    color: blue;
+    font-size: 15;
+    column-gap: 100px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+
+}
+
+td {
+  padding: 10px 0;
+  font-size=18;
+}
+
+.wrapper{width:100%; display:table;}
+.equal{display:table-cell;}
+.left{text-align:left;}
+.center{text-align:center;}
+.right{text-align:right;}

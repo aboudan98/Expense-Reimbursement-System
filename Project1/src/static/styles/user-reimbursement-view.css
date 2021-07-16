@@ -1,0 +1,41 @@
+.reimbursement-form{
+    padding: 20em;
+    text-align: center;
+}
+
+#user-reimbursement-header{
+    text-align: center;
+}
+
+body{
+    background-color: skyblue;
+}
+
+input:focus {
+    background-color: lightgreen;
+}
+
+.top-left-home{
+    text-align: left;
+}
+
+#reason{
+    height:25px;
+    width:400px;
+    font-size:12pt;
+}
+
+footer {
+    float: left;
+    height: 35px;
+    margin: 0px 50px 0px 0px;
+    color: #000;
+    padding: 10px 30px;
+    width: 180px;
+}
+
+.wrapper{width:100%; display:table;}
+.equal{display:table-cell;}
+.left{text-align:left;}
+.center{text-align:center;}
+.right{text-align:right;}

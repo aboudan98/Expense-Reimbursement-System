@@ -1,0 +1,48 @@
+#new-reimbursement-button{
+    color:dodgerblue;
+}
+
+#home-button{
+    color: dodgerblue;
+}
+
+#view-reimbursements-button{
+    color: dodgerblue;
+}
+
+.buttons-top-center{
+    text-align: center;
+}
+
+body {
+    background-color:steelblue;
+}
+
+#welcome-message{
+    color:white;
+    text-align: center;
+}
+
+.sign-out-button{
+    display: block;
+    text-align: right;
+}
+
+.reimbursement-image{
+    padding:10em;
+    text-align: center;
+}
+
+footer {
+    float: left;
+    height: 35px;
+    margin: 0px 50px 0px 0px;
+    color: #000;
+    text-align: left;
+    padding: 10px 30px;
+    width: 180px;
+}
+
+#welcome-user{
+    font-size:17;
+}

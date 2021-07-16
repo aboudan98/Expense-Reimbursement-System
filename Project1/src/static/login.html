@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Login</title>
+        <link rel="stylesheet" href="styles/project-one-login.css"/>
+    </head>
+    <body>
+        <header>
+            <h1 id='home-title'>Revature Reimbursement</h1>
+        </header>
+        <div id='cash'>
+            <img id='cash-image' src='https://live.staticflickr.com/65535/17121925920_e2095f2df5_b.jpg'/>
+        </div>
+        <form method="post" action="http://localhost:5000/login.html">
+            <section class="login-columns">
+                <!--Whenever we pass form data back to the server that data is retrieved via na elements "name" attribute. -->
+                <label for="username" id='username-label'>Username: </label>
+                <input type="text" placeholder="Username" name="username" id='username' maxlength="20"/>
+                <label for="password" id='password-label'>Password: </label>
+                <input type="password" placeholder="******" name="password" id='password' maxlength="20"/>
+                <input type="submit" id='submit-button'/>
+            </section>
+        </form>
+    </body>
+    <footer>
+        <h5>&copy;Copyright Revature. All rights reserved.</h5>
+    </footer>
+    <script src="scripts/login.js"></script>
+</html>
