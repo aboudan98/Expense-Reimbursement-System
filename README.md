@@ -26,4 +26,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 # TODO list
 - Being able to create new users on the front page
 - Having a dropdown of options for approve or deny instead of having to type in approved or denied
-
+# Getting started
+- Using git clone "repo link", you could add this project onto your local environment. 
+- After that you could open the project in a prefered Python IDE or use the command "python3 main.py".
+- 
