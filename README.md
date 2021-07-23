@@ -29,4 +29,9 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 # Getting started
 - Using git clone "repo link", you could add this project onto your local environment. 
 - After that you could open the project in a prefered Python IDE or use the command "python3 main.py".
-- 
+# Usage
+- Go to the login page and enter a username and password
+- Add a reimbursement as a user
+- View all reimbusements as a user
+- Approve or deny a request as a manager
+- View statistics as a manager
